@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bhushan Choudhary
 - 👀 I’m interested in Learning and Coding
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. choudhary.bhushan31@gmail.com
 
 <!---
